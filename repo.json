@@ -1,0 +1,35 @@
+ "RepositoryName": "Ktweak",
+    "RepositoryDescription": "Incredibly simple tweaks!",
+    "RepositoryAuthor": "DauntingEmperor",
+    "RepositoryIcon": "https://media.discordapp.net/attachments/1076677969705185441/1126690699081941022/Untitled_design_1.png?width=401&height=401",
+    "RepositoryWebsite": "https://github.com/DauntingEmperor/MDC/repo.json",
+    "DefaultHeaderImage": "https://media.discordapp.net/attachments/1076677969705185441/1126690699081941022/Untitled_design_1.png?width=401&height=401",
+    "RepositoryContents": [
+        {
+            "Name": "VersionTroller :D",
+            "Description": "Change your internal iOS version to 17 to trick apps.  Warning⚠️⚠️⚠️!!  New Misaka tweaks will not be able to be downloaded with this turned on!",
+            "Author": {
+                "Label": "DauntingEmperor",
+                "Links": [
+                    {
+                        "Label": "DauntingEmperor",
+                        "Link": "https://Github.com/DauntingEmperor"
+                    }
+                ]
+            },
+            "Icon": "https://media.discordapp.net/attachments/1076677969705185441/1126690699081941022/Untitled_design_1.png?width=401&height=401",
+            "HeaderImage": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOTHmFNPIORK3CvRpnAwT7EPR0nWwMYG-lGQ6I0JWrQZv3YvrIUN99wtuZspZI64mPRj15G0BIJoa2A_qRoNhamRSOgZJA=w1920-h927",
+            "Category": "App Custom",
+            "Caption": "Troll your system settings",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1125798509501747250/112579863107366",
+                    "Description": "Intial Release"
+                }
+            ],
+            "PackageID": "org.DauntingEmperor.SystemTroller"
+        }
+    ]
+}
